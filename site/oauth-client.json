@@ -1,0 +1,16 @@
+{
+  "client_id": "https://kevinwuwj-crypto.github.io/mistrategy-agentos-client/oauth-client.json",
+  "client_name": "MIStrategy for DSHDesktop",
+  "client_uri": "https://kevinwuwj-crypto.github.io/mistrategy-agentos-client/",
+  "application_type": "native",
+  "redirect_uris": [
+    "http://127.0.0.1:43872/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
